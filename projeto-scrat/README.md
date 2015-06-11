@@ -1,2 +1,0 @@
-# scrat
-Código Projeto Scrat
